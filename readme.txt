@@ -12,7 +12,7 @@ This plugin fixes a problem with setting the field 'From' and 'FromName'.
 
 This plugin fixes a problem with setting the field 'From' and 'FromName' while sending e-mail forms from the Contact Form 7 plugin i.e. having set SMTP with fixed 'From' and 'FromName' fields.
 
-<strong>Certainly it works with the version 4.0.3 of the Contact Form 7.</strong>:
+<strong>Certainly it works with the version 4.0.3 of the Contact Form 7.</strong>
 
 <strong>Major features in Opes Favicon include</strong>:
 
