@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: Opes PhpMailer Patch - Contact Form 7
-Plugin URI: 
+Plugin URI: https://wordpress.org/plugins/opes-phpmailer-patch-contact-form-7/
 Description: This plugin fixes a problem with setting the field 'From' and 'FromName' while sending e-mail forms from the Contact Form 7 plugin i.e. having set SMTP with fixed 'From' and 'FromName' fields
 Version: 1.0.0
 Author: Paweł Twardziak
