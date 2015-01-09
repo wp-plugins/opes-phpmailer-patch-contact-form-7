@@ -14,7 +14,7 @@ This plugin fixes a problem with setting the field 'From' and 'FromName' while s
 
 <strong>Certainly it works with the version 4.0.3 of the Contact Form 7.</strong>
 
-<strong>Major features in Opes Favicon include</strong>:
+<strong>Major features in Opes PhpMailer Patch - Contact Form 7 include</strong>:
 
 * Very simple!
 * No need to set anything!
@@ -22,7 +22,7 @@ This plugin fixes a problem with setting the field 'From' and 'FromName' while s
 
 == Installation ==
 
-* Upload the Opes Favicon plugin to your blog and activate it
+* Upload the Opes PhpMailer Patch - Contact Form 7 plugin to your blog and activate it.
 
 == Changelog ==
 
